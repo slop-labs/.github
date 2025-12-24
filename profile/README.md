@@ -16,7 +16,7 @@ This is not production code. This is the primordial soup from which production c
 
 🤖 **AI Orchestration** — Multi-agent systems, agentic workflows, and teaching robots to manage other robots
 
-🏗️ **Automated Code Planning & Development** — LLM-driven architecture, code generation pipelines, and the noble pursuit of making developers obsolete (starting with ourselves)
+🏗️ **Automated Code Planning & Development** — LLM-driven architecture, code generation pipelines, etc.
 
 📊 **Underwriting Automation** — Because someone has to teach the machines to say "no" to loan applications
 
